@@ -9,7 +9,7 @@
 tensorflow
 #tensorflow==2.10.0
 #keras_segmentation
-os
+#os
 pathlib
 cv2
 flask
