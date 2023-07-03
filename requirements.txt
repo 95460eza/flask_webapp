@@ -19,7 +19,7 @@ requests
 PIL
 #from PIL import Image
 #from io import BytesIO
-import base64
+base64
 imgaug
 imgaug.augmenters
 imageio
