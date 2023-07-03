@@ -3,6 +3,7 @@
 #pickle installed already in base python
 #os installed already in base python
 #base64 installed already in base python
+#collections installed already in base python
 #joblib
 #fastapi
 #wheel
@@ -24,7 +25,6 @@ pillow
 imgaug
 #imgaug.augmenters
 imageio
-collections
 
 flask_sqlalchemy
 pandas
