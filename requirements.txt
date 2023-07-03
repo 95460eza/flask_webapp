@@ -22,7 +22,7 @@ pillow
 #from PIL import Image
 #from io import BytesIO
 imgaug
-imgaug.augmenters
+#imgaug.augmenters
 imageio
 collections
 
