@@ -2,6 +2,7 @@
 #json installed already in base python
 #pickle installed already in base python
 #os installed already in base python
+#base64 installed already in base python
 #joblib
 #fastapi
 #wheel
@@ -20,7 +21,6 @@ requests
 pillow
 #from PIL import Image
 #from io import BytesIO
-base64
 imgaug
 imgaug.augmenters
 imageio
