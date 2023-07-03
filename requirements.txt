@@ -17,7 +17,7 @@ opencv-python
 flask
 numpy
 requests
-pilow
+pillow
 #from PIL import Image
 #from io import BytesIO
 base64
