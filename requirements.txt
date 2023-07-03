@@ -11,7 +11,8 @@ tensorflow
 #keras_segmentation
 #os
 pathlib
-cv2
+#cv2
+opencv-python
 flask
 numpy
 pickle 
