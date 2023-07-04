@@ -127,3 +127,7 @@ def show_image(image_name):
 
 # Closes the CONTEXT AFTER Python/SQL INTERACTION is completed
 app_ctx.pop()
+
+
+if __name__ == '__main__':
+    flask_web_app.run(port=8000, debug=True)
